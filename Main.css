@@ -1,0 +1,960 @@
+body {
+    overflow-x: hidden;
+}
+/* ------------------------------ HEADER ------------------------------ */
+.img-responsive-Header   {
+    margin: 0 auto ;
+    text-align: center;   
+}
+/* ----------Menu---------- */
+
+a{
+    margin: 25px;
+}
+.Menu  {
+    text-decoration: none;
+    list-style-type:none;
+    margin-top: -925px;
+    margin-left: 800px;
+}
+.Menu :hover {
+    color: grey;
+
+}
+.Menu:visited{
+    color: grey;
+}
+
+/* ----------Button---------- */
+.SING {
+    display: inline;
+    border-radius:  50px;
+    border: 3px solid rgb(30, 79, 172);
+    background-color: rgb(30, 79, 172);
+    color: white;
+    width: 150px;
+    height: 50px;
+    border-width: 0px;    
+}
+.SING:focus {
+    outline: none;
+}
+.SING:hover {
+    border: 3px solid rgb(30, 79, 172);
+    background-color:white;
+    color:rgb(43, 144, 226);
+}
+.SING:visited {  
+    border: 3px solid rgb(30, 79, 172);
+    background-color:white;
+    color: rgb(43, 144, 226);
+}
+.button-download {
+    display: inline;
+    margin: 25px;
+    border-radius: 50px;
+    width: 150px;
+    height: 45px;
+    border-width: 0px;
+    border: 3px solid rgb(43, 144, 226);
+    background-color: rgb(43, 144, 226);
+    color: white;
+    margin-top: 270px;
+    margin-left: 200px;
+}
+.button-download:focus {
+    outline: none;
+}
+.button-download:hover {
+    border: 3px solid rgb(43, 144, 226);
+    background-color:white;
+    color:rgb(43, 144, 226);
+}
+.button-download:visited {  
+    border: 3px solid rgb(43, 144, 226);
+    background-color:white;
+    color: rgb(43, 144, 226);
+}
+
+.button-trial {
+    border-radius: 50px;
+    width: 150px;
+    height: 45px;
+    border-width: 0px;
+    border: 3px solid rgb(43, 144, 226);
+    background-color: rgb(255, 255, 255);
+    color: rgb(43, 144, 226);
+    margin-top: 200px;
+    margin-right: 200px;
+    
+}
+.button-trial:focus {
+    outline: none;
+}
+.button-trial:hover {
+    border: 3px solid rgb(43, 144, 226);
+    background-color:rgb(43, 144, 226);
+    color:white;
+}
+.button-trial:visited {  
+    border: 3px solid rgb(43, 144, 226);
+    background-color:rgb(43, 144, 226);
+    color:white;
+}
+/* Middle Text */
+.Main-heading {
+    margin-top: -225px;
+    font-family: 'Quicksand', sans-serif;
+    
+}
+.main-text {
+    color: grey;
+}
+/* -------------------------------------------------------------------- */
+
+/* ------------------------------ FEATURES ------------------------------ */
+
+/* ----------img---------- */
+.img-responsive-Features {
+    margin: 0 auto ;
+    height: auto;
+    text-align: center;
+    margin-top: 600px;
+}
+/* ----------First Block & text---------- */
+.block {
+    margin-right: 850px;
+    margin-top: -1500px;
+    border-radius: 10px;
+    filter: drop-shadow( 0 0  4px rgb(189, 185, 185))   
+}
+.heading-first {
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 490px;
+    margin-top: -770px;
+    position: absolute;
+}
+.text-down-first {
+    font-family: 'Quicksand', sans-serif;
+    color: grey;
+    margin-left: 380px;
+    margin-top: -710px;
+    position: absolute;
+}
+/* ----------Second_Block & text---------- */
+.block-two {
+    margin-right: 10px;
+    margin-top: -1200px;
+    border-radius: 10px;
+    filter: drop-shadow( 0 0  4px rgb(189, 185, 185)) 
+}
+.heading-two {
+    font-family: 'Quicksand', sans-serif;
+        margin-top: -620px;
+        margin-left: 880px;
+        position: absolute;   
+}
+.text-down-two {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: -570px;
+    margin-left: 800px;
+    position: absolute;
+    color: grey;
+}
+/* ----------Tree_Block & text---------- */
+.block-tree {
+    margin-left: 800px;
+    margin-top: -1600px;
+    border-radius: 10px;
+    filter: drop-shadow( 0 0  4px rgb(189, 185, 185)) 
+}
+.heading-tree {
+        font-family: 'Quicksand', sans-serif;
+        margin-top: -825px;
+        margin-left: 1305px;
+        position: absolute;   
+}
+.text-down-tree {
+        font-family: 'Quicksand', sans-serif;
+        margin-top: -770px;
+        margin-left: 1200px;
+        position: absolute;
+        color: grey;
+}
+/* -------------------------------------------------------------------- */
+
+/* ------------------------------ ABOUT ------------------------------ */
+
+/* ----------img---------- */
+.img-responsive-About {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    margin-top: -150px;
+}
+/* ---------- №1 - Text & Link ---------- */
+.Block-tree-heading {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: -780px;
+    margin-left: 250px;
+}
+.Block-tree-text {
+    font-size: 85%;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 25px;
+    margin-left: 975px;
+    text-align: left;
+    color: grey;
+}
+.Link-one  {
+    margin-left: 145px;
+    text-decoration: none;
+    list-style-type:none;
+    font-weight: bolder;
+}
+/* ---------- №2 - Text & Link ---------- */
+.Block-tree-heading-second {
+    margin-top: 240px;
+    margin-left: -800px;
+}
+.Block-tree-text-second {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 85%;
+    margin-top: 25px;
+    margin-left: 465px;
+    text-align: left;
+    color: grey;
+}
+.Link-second {
+    margin-right: 880px;
+    text-decoration: none;
+    list-style-type:none;
+    font-weight: bolder;
+}
+/* -------------------------------------------------------------------- */
+
+/* ------------------------------ NOW DOES IT WORKS ------------------------------ */
+
+/* ----------IMG---------- */
+.img-responsive-Now-Does-It-Works{
+    margin-top: 183px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;  
+}
+/* ----------UP Text---------- */
+.Block-Four-heading {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: -470px;
+}
+.Block-Four-text-down {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 25px;
+    color: grey;
+}
+/* ----------Down Heading & Text #1---------- */
+.Block-Four-headingdown-one {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 150px;
+    margin-right: 660px;
+}
+.Block-Four-textdown-one {
+    font-family: 'Quicksand', sans-serif;
+    margin-right: 660px;
+    margin-top: 25px;
+    color: grey;
+    font-size: 85%;
+}
+/* ----------Down Heading & Text #2---------- */
+.Block-Four-headingdown-two {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: -105px;
+}
+.Block-Four-textdown-two {
+    font-family: 'Quicksand', sans-serif;
+    margin-top:  25px;
+    color: grey;
+    font-size: 85%;
+}
+/* ----------Down Heading & Text #3---------- */
+.Block-Four-headingdown-tree {
+    margin-left: 660px;
+    margin-top: -105px;
+}
+.Block-Four-textdown-tree {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 25px;
+    margin-left: 660px;
+    color: grey;
+    font-size: 85%;
+}
+/* -------------------------------------------------------------------- */
+
+/* ------------------------------ PRICING ------------------------------ */
+
+/* ----------img---------- */
+.img-responsive-Pricing{
+    margin-top: 100px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;   
+}
+
+/* ----------First Block & Text & Button---------- */
+.Block-Five-Free-One {
+    margin-top: -725px;
+    position: relative;
+    display: block;
+}
+/* ----------Heading & Text ---------- */
+.Block-Five-Free-Heading {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: -473px;
+    position: relative;
+}
+.Block-Five-Free-Text {
+    font-family: 'Quicksand', sans-serif;
+    line-height: 35px;
+    margin-top: 50px;
+    position: relative;
+    text-align: center;
+    color: grey;
+}
+/* ----------Price---------- */
+.Block-Five-Free-Price {
+    font-weight: 700;
+    color: rgb(43, 144, 226);
+    margin-top: -15px;
+    position: relative;
+    font-size: 35px;
+}
+.Block-Five-Free-Price::before {
+    content: "\0024";
+    font-size: 19px;
+    font-weight: 700;
+}
+/* ----------Button---------- */
+.Block-Five-Free-Btn {
+    position: relative;
+    margin: 25px;
+    border-radius: 50px;
+    width: 150px;
+    height: 45px;
+    border-width: 0px;
+    border: 3px solid rgb(43, 144, 226);
+    background-color: rgb(43, 144, 226);
+    color: white;
+    margin-top: 10px;
+}
+.Block-Five-Free-Btn:focus {
+    outline: none;
+}
+.Block-Five-Free-Btn:hover {
+    border: 3px solid rgb(43, 144, 226);
+    background-color:white;
+    color:rgb(43, 144, 226);
+}
+.Block-Five-Free-Btn:visited {  
+    border: 3px solid rgb(43, 144, 226);
+    background-color:white;
+    color: rgb(43, 144, 226);
+}
+
+/* ----------Second Block & Text & Button---------- */
+.Block-Five-Premium-Second {
+    margin-left: 1100px;
+    margin-top: -623px;
+    position: absolute;
+
+}
+/* ----------Heading & Text ---------- */
+.Block-Five-Premium-Heading-Second{
+    font-family: 'Quicksand', sans-serif;
+    position: relative;
+    margin-top: -470px;
+    margin-left: 0px;
+}
+.Block-Five-Premium-Text-Second {
+    font-family: 'Quicksand', sans-serif;
+    line-height: 35px;
+    margin-top: 50px;
+    margin-left: 0px;
+    position: relative;
+    text-align: center;
+    color: grey;
+}
+/* ----------Price ---------- */
+.Block-Five-Premium-Price-Second {
+    font-weight: 700;
+    color: rgb(43, 144, 226);
+    margin-top: -15px;
+    position: relative;
+    font-size: 35px;
+    margin-left: 0px;
+}
+.Block-Five-Premium-Price-Second:before {
+    content: "\0024";
+    font-size: 19px;
+    font-weight: 700;
+}
+/* ----------Btn ---------- */
+.Block-Five-Premium-Btn-Two {
+    position: relative;
+    margin: 25px;
+    border-radius: 50px;
+    width: 150px;
+    height: 45px;
+    border-width: 0px;
+    border: 3px solid rgb(43, 144, 226);
+    background-color: rgb(255, 255, 255);
+    color: rgb(43, 144, 226);
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.Block-Five-Premium-Btn-Two:focus {
+    outline: none;
+}
+.Block-Five-Premium-Btn-Two:hover {
+    border: 3px solid rgb(43, 144, 226);
+    background-color:rgb(43, 144, 226);
+    color:white;
+}
+.Block-Five-Premium-Btn-Two:visited {  
+    border: 3px solid rgb(43, 144, 226);
+    background-color:rgb(43, 144, 226);
+    color:white;
+}
+/* -------------------------------------------------------------------- */
+
+/* ------------------------------ PRICING #2------------------------------ */
+
+/* ---------- Heading ---------- */
+.Five-Heading {
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: -400px;
+}
+/* ---------- Text Down ---------- */
+.Five-Text-down {
+    font-family: 'Quicksand', sans-serif;
+    color: grey;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: -340px;
+    text-align: left;
+}
+/* ---------- Dowble btn ---------- */
+
+/* ---------- Btn Rigth ---------- */
+.Five-Btn-Rigth{
+    position: absolute;
+    margin: 25px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    width: 150px;
+    height: 45px;
+    border-width: 0px;
+    border: 3px solid rgb(43, 144, 226);
+    background-color: rgb(255, 255, 255);
+    color: rgb(43, 144, 226);
+    margin-left: -605px;
+    margin-top: -205px;
+}
+.Five-Btn-Rigth:focus {
+    outline: none;
+}
+.Five-Btn-Rigth:hover {
+    border: 3px solid rgb(43, 144, 226);
+    background-color:rgb(43, 144, 226);
+    color:white;
+}
+.Five-Btn-Rigth:visited {  
+    border: 3px solid rgb(43, 144, 226);
+    background-color:rgb(43, 144, 226);
+    color:white;
+}
+/* ---------- Btn Left ---------- */
+.Five-Btn-Left{
+    position: absolute;
+    margin: 25px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    width: 150px;
+    height: 45px;
+    border-width: 0px;
+    border: 3px solid rgb(43, 144, 226);
+    background-color: rgb(255, 255, 255);
+    color: rgb(43, 144, 226);
+    margin-left: -460px;
+    margin-top: -205px;
+}
+.Five-Btn-Left:focus {
+    outline: none;
+}
+.Five-Btn-Left:hover {
+    border: 3px solid rgb(43, 144, 226);
+    background-color:rgb(43, 144, 226);
+    color:white;
+}
+.Five-Btn-Left:visited {  
+    border: 3px solid rgb(43, 144, 226);
+    background-color:rgb(43, 144, 226);
+    color:white;
+}
+/* -------------------------------------------------------------------- */
+
+/* ------------------------------ TESTIMONIALS ------------------------------ */
+
+/* ----------Back Img---------- */
+.img-responsive-Testimonials {
+    margin-top: 100px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;   
+}
+/* ----------Middle Heading---------- */
+.Testimonials-middle-heading{
+    position: absolute;
+    margin-top: -470px;
+    margin-left: 890px;
+}
+/* ----------Review img---------- */
+.Review-img, .Review-img-two, .Review-img-tree  {
+    margin: 0 auto;
+    position: block;
+    margin-top: -625px;
+    margin-left: 350px;
+}
+/* ----------Review #2---------- */
+.Review-img-two {
+    margin: 0 auto;
+    margin-top: -213px;
+    margin-left: 350px;
+}
+/* ----------Review #3---------- */ 
+.Review-img-tree {
+    margin: 0 auto;
+    margin-top: -230px;
+    margin-left: 350px;
+}
+/* ----------Review Text---------- */
+.slider-title {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: -395px;
+    margin-left: 130px;
+    font-weight: 700;
+}
+.slider-name {
+    font-family: 'Quicksand', sans-serif;
+    color: grey;
+    margin-left: 170px;
+    margin-top: -10px;
+}
+.slider-text {
+    font-family: 'Quicksand', sans-serif;
+    color: grey;
+    margin-left: 978px;
+}
+/* ----------Review Text #2---------- */
+.slider-title-two {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: -200px;
+    margin-left: 130px;
+    font-weight: 700;
+}
+.slider-name-two {
+    font-family: 'Quicksand', sans-serif;
+    color: grey;
+    margin-left: 170px;
+    margin-top: -10px;
+}
+.slider-text-two {
+    font-family: 'Quicksand', sans-serif;
+    color: grey;
+    margin-left: 978px;
+}
+/* ----------Review Text #3---------- */
+.slider-title-tree {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: -200px;
+    margin-left: 130px;
+    font-weight: 700;
+}
+.slider-name-tree {
+    font-family: 'Quicksand', sans-serif;
+    color: grey;
+    margin-left: 170px;
+    margin-top: -10px;
+}
+.slider-text-tree {
+    font-family: 'Quicksand', sans-serif;
+    color: grey;
+    margin-left: 978px;
+}
+/* ----------Slider Button---------- */
+#slider-btn {
+    margin-top: 0px;
+    margin-left: 365px;
+
+}
+#switch1 {
+    border-radius: 50px;
+    background-color: rgb(182, 182, 182);
+    border: 3px solid rgb(182, 182, 182);
+    height: 10px;
+    width: 15px;
+}
+#switch1:focus {
+    outline: none;
+}
+#switch1:hover {
+    border-radius: 50px;
+    border: 3px solid rgb(43, 144, 226);
+    background-color: rgb(43, 144, 226);
+    height: 12px;
+    width: 30px;
+}
+/* ----------Slider Button #2---------- */
+#switch2 {
+    border-radius: 50px;
+    border: 3px solid rgb(182, 182, 182);
+    background-color:  rgb(182, 182, 182);
+    height: 10px;
+    width: 15px;
+}
+#switch2:focus {
+    outline: none;
+}
+#switch2:hover {
+    border-radius: 50px;
+    border: 3px solid rgb(43, 144, 226);
+    background-color: rgb(43, 144, 226);
+    height: 12px;
+    width: 30px;
+}
+/* ----------Slider Button #3---------- */
+#switch3 {
+    border-radius: 50px;
+    border: 3px solid rgb(182, 182, 182);
+    background-color:  rgb(182, 182, 182);
+    height: 10px;
+    width: 15px;
+}
+#switch3:focus {
+    outline: none;
+}
+#switch3:hover {
+    border-radius: 50px;
+    border: 3px solid rgb(43, 144, 226);
+    background-color: rgb(43, 144, 226);
+    height: 12px;
+    width: 30px;
+}
+/* -------------------------------------------------------------------- */
+
+/* ------------------------------ LN ------------------------------ */
+
+/* ---------- back img ---------- */
+.img-responsive-LN {
+    margin-left: 125px;
+    display: inline;
+    max-width: 100%;
+    height: auto;
+    text-align: center;  
+    margin-top: 0px;
+}
+/* ---------- Middle Heading ---------- */
+.middle-heading {
+    position: absolute;
+    margin-top: -700px;
+    margin-left: 810px;
+}
+/* ---------- Middle Text ---------- */
+.middle-text {
+    font-family: 'Quicksand', sans-serif;
+    color: grey;
+    position: absolute;
+    margin-top: -640px;
+    margin-left: 550px;
+    font-size: 100%;
+}
+.LN-link {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(98, 171, 231);
+    position: absolute;
+    margin-top: -70px;
+    margin-left: -655px;
+    text-decoration: none;
+    list-style-type:none;
+    font-weight: bolder;
+}
+/* ---------- Image one ---------- */
+.Image-one {
+    position: absolute;
+    margin-top: -550px;
+    margin-left: 300px;
+}
+/* ---------- Image one heading ---------- */
+.Image-one-heading {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(98, 171, 231);
+    position: absolute;
+    margin-top: -235px;
+    margin-left: 300px;
+    font-weight: bolder;
+    text-align: left;
+}
+/* ---------- Image one text ---------- */
+.Image-one-text {
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 300px;
+    text-align: left;
+    color: grey;
+}
+
+/* ---------- Image two ---------- */
+.Image-two {
+    position: absolute;
+    margin-top: -550px;
+    margin-left: 880px;
+}
+/* ---------- Image two heading ---------- */
+.Image-two-heading {
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    margin-top: -550px;
+    margin-left: 1070px;
+    text-align: left;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+/* ---------- Image two text ---------- */
+.Image-two-text {
+    font-family: 'Quicksand', sans-serif;
+    color: grey;
+    position: absolute;
+    margin-top: -485px;
+    margin-left: 1070px;
+    text-align: left;
+}
+
+/* ---------- Image tree ---------- */
+.Image-tree {
+    position: absolute;
+    margin-top: -395px;
+    margin-left: 880px;
+}
+/* ---------- Image tree heading---------- */
+.Image-tree-heading {
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    margin-top: -385px;
+    margin-left: 1070px;
+    text-align: left;
+    font-weight: 500;
+    font-size: 20px;
+}
+/* ---------- Image tree text---------- */
+.Image-tree-text {
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    margin-top: -325px;
+    margin-left: 1070px;
+    text-align: left;
+    color: grey;
+}
+
+/* ---------- Image four ---------- */
+.Image-four {
+    position: absolute;
+    margin-top: -237px;
+    margin-left: 880px;
+}
+/* ---------- Image four heading ---------- */
+.Image-four-heading {
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    margin-top: -235px;
+    margin-left: 1070px;
+    text-align: left;
+    font-weight: 500;
+    font-size: 20px;
+}
+/* ---------- Image four text---------- */ 
+.Image-for-text {
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    margin-top: -170px;
+    margin-left: 1070px;
+    text-align: left;
+    color: grey;
+}
+/* -------------------------------------------------------------------- */
+
+/* ------------------------------ Free Trial ------------------------------ */
+
+/* ---------- Main background img ---------- */ 
+.img-responsive-FreeTrial {
+    height: auto;
+    text-align: center;
+}
+/* ---------- FT Heading ---------- */ 
+.FT-heading {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: -255px;
+    margin-left: -400px;
+}
+/* ---------- FT Text ---------- */ 
+.FT-text {
+    font-family: 'Quicksand', sans-serif;
+    color: rgba(128, 128, 128, 0.452);
+    margin-left: -505px;
+}
+/* ---------- FT Button ---------- */ 
+.FT-btn {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -80px;
+    border-radius: 5px;
+    border: 3px solid rgb(43, 144, 226);
+    background-color: rgb(43, 144, 226);
+    color: white;
+    height: 60px;
+    width: 200px;
+}
+.FT-btn:focus {
+    outline: none;
+}
+.FT-btn:hover {
+    border: 3px solid rgb(43, 144, 226);
+    background-color:white;
+    color:rgb(43, 144, 226);
+}
+.FT-btn:visited {  
+    border: 3px solid rgb(43, 144, 226);
+    background-color:white;
+    color: rgb(43, 144, 226);
+}
+/* -------------------------------------------------------------------- */
+
+/* ------------------------------ Widget ------------------------------ */
+
+/* ---------- Main background img ---------- */ 
+.img-responsive-Widget {
+    height: auto;
+    text-align: center;
+    margin-top: 150px;
+}
+/* ---------- Logo ---------- */ 
+.Widget-Logo {
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    color: white;
+    margin-top: -453px;
+    margin-left: 925px;
+}
+.Widget-form {
+    margin-top: -400px;
+}
+.Widget-search {
+    border: 2px solid #ffffff;
+    background-color: rgb(0, 124, 240);
+    color: white;
+    width: 350px;
+    height: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    text-align: -50px;
+}
+.Widget-search::placeholder {
+    color: white;
+}
+
+.Widget-search:focus {
+    outline: none;
+}
+.Widget-search-btn {
+    border: 2px solid #ffffff;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 124, 240);
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    width: 125px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: -15px;
+}
+.Widget-search-btn:focus {
+    outline: none;
+}
+.Widget-search-btn:hover {
+    border: 3px solid rgb(255, 255, 255);
+    background-color:rgb(0, 124, 240);
+    color:white;
+}
+.Widget-search-btn:visited {  
+    border: 3px solid rgb(255, 255, 255);
+    background-color:rgb(0, 124, 240);
+    color:white;
+}
+.Widget-text-down {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 290px;
+    margin-left: -750px;
+    color: white;
+}
+.Widget-text-link {
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 30px;
+    color: white;
+    text-decoration: none;
+    list-style-type:none;
+}
+.Widget-text-link:hover {
+    color: rgba(255, 255, 255, 0.651);
+}
+.Widget-text-link-two {
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    color: white;
+    margin-top: -40px;
+    margin-left: 180px;
+    text-decoration: none;
+    list-style-type:none;
+}
+.Widget-text-link-two:hover {
+    color: rgba(255, 255, 255, 0.651);
+}
+.Widget-text-link-tree {
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    color: white;
+    margin-top: -40px;
+    margin-left: 298px;
+    text-decoration: none;
+    list-style-type:none;
+}
+.Widget-text-link-tree:hover {
+    color: rgba(255, 255, 255, 0.651);
+}
+.img-responsive-Widget-fb {
+    margin-top: -40px;
+    margin-left: 900px;
+}
+.img-responsive-Widget-twitter {
+    margin-top: -22px;
+    margin-left: 970px;
+}
+.img-responsive-Widget-yt {
+    margin-top: -25px;
+    margin-left: 1040px;
+}
+.img-responsive-Scroll {
+    margin-top: -35px;
+    margin-left: 1300px;
+}
